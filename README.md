@@ -22,7 +22,8 @@ git clone https://github.com/Manchien/Tahrd-carbon.git
 
 ## User Guide
 
-[🎞️Video demonstration](https://www.youtube.com/watch?v=dn8486sFMFc)
+[🎞️Video demonstration part1](https://www.youtube.com/watch?v=dn8486sFMFc)
+、[part2](https://www.youtube.com/watch?v=zS_y-KyNy0o)
 
 Here are instructions on how to use this project.
 
