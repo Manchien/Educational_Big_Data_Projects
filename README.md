@@ -13,7 +13,7 @@ Please follow the steps below to install and configure this project :
 
 **STEP 1 :** 
 ```
-git clone https://github.com/Manchien/Tahrd-carbon.git
+git clone https://github.com/Manchien/Educational_Big_Data_Projects.git
 ```
 
 **STEP 2 :** Setup virtual environment and install dependencies using `pip install -r requirements.txt`
@@ -47,5 +47,5 @@ py data_collection.py
 
 ### Data Visualization：
 ### Examples of how to use the tool
-> [What Addresses are Potential Fraud Accounts?](https://github.com/Manchien/Tahrd-carbon/blob/main/docs/example.pdf)
+> [What Addresses are Potential Fraud Accounts?](https://github.com/Manchien/Educational_Big_Data_Projects/blob/bb88f7e49d3e4d47b09c05a2c13fa7d15cdcbbe1/docs/example.pdf)
 > 
